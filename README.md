@@ -6,6 +6,7 @@ Software engineering student
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [joaovictor.gizidoro@gmail.com](mailto:joaovictor.gizidoro@gmail.com)
+*   📚  I'm learning React
 
 ### Skills 
 <p align="left">
